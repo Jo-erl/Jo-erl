@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!, I'm Joel Anang</h1>
-<h3 align="center">A passionate Graphic Designer / Web Designer.</h3>
+<h3 align="center">A passionate Graphics / Web Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jo-erl&label=Profile%20views&color=0e75b6&style=flat" alt="jo-erl" /> </p>
 
