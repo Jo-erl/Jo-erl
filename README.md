@@ -3,7 +3,8 @@
 # 💫 About Me:
 <h1 align="center">Hey there!, I'm Joel Anang</h1>
 <h3 align="center">A passionate Graphics / Web Designer.</h3>
-🤝 I’m looking to collaborate on Design-related projects<br>👨‍💻 All of my projects are available at <a href="https://jo-erl.github.io/joelanangportfolio/">Portfolio</a> <br>📫 How to reach me Jo.erl444@gmail.com<br>
+🤝 I’m looking to collaborate on Design-related projects<br>👨‍💻 All of my projects are available at <a href="https://jo-erl.github.io/joelanangportfolio/">Portfolio</a> <br>
+📫 How to reach me: mailto:Jo.erl444@gmail.com<br>
 
 
 ## 🌐 Socials:
