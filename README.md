@@ -1,5 +1,4 @@
-
-![Uploading github.gif…]()
+![github](https://github.com/Jo-erl/Jo-erl/assets/133300552/33db47d6-1e7b-4298-b1f4-51c680625b4b)
 
 <h1 align="center">Hey there!, I'm Joel</h1>
 <h3 align="center">A passionate Graphics / Web Designer.</h3>
