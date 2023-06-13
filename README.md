@@ -1,6 +1,7 @@
 
+![Uploading github.gif…]()
 
-<h1 align="center">Hey there!, I'm Joel Anang</h1>
+<h1 align="center">Hey there!, I'm Joel</h1>
 <h3 align="center">A passionate Graphics / Web Designer.</h3>
 
 🤝 I’m looking to collaborate on Design-related projects<br><br>👨‍💻 All of my projects are available at <a href="https://jo-erl.github.io/joelanangportfolio/">Portfolio</a> <br><br>
