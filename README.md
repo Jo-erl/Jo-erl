@@ -3,8 +3,8 @@
 <h1 align="center">Hey there!, I'm Joel</h1>
 <h3 align="center">A passionate Graphics / Web Designer.</h3>
 
-👨‍💻 My projects are available at <a href="https://jo-erl.github.io/joelanangportfolio/">Portfolio</a> <br><br>
-📫 How to reach me: <a href="mailto:john.doe@example.com">Say Hi!</a>
+👨‍💻 My projects are available at <a href="https://jo-erl.github.io/joelanangportfolio/" target="_blank">Portfolio</a> <br><br>
+📫 How to reach me: <a href="mailto:jo.erl444@gmail.com">Say Hi!</a>
 
 
 
