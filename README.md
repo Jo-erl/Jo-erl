@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/d2c758d3-3258-4d67-951c-da69e1c80ad7)
 
-<h1 align="center">Hey there!, I'm Joel</h1>
-<h3 align="center">A passionate Graphics / Web Designer.</h3>
+<h1 align="left">Hey there!, I'm Joel</h1>
+<h3 align="left">A passionate Graphics / Web Designer.</h3>
 
 👨‍💻 My projects are available at <a href="https://jo-erl.github.io/joelanangportfolio/" target="_blank">Portfolio</a> <br><br>
 📫 How to reach me: <a href="mailto:jo.erl444@gmail.com">Say Hi!</a>
