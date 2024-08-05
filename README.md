@@ -9,7 +9,7 @@
 ![Snake animation](https://github.com/Emily-Sousa/Emily-Sousa/blob/output/github-contribution-grid-snake.svg)
 
 [comment]: <> (💻 Tech Stack:)
-[comment]: <> (## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jo.erl))
+[comment]: <> (## 🌐 Socials:)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jo-erl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
