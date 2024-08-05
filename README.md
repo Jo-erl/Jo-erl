@@ -8,9 +8,6 @@
 👨‍💻 My projects are available at <a href="https://jo-erl.github.io/joelanangportfolio/" target="_blank">Portfolio</a> <br><br>
 📫 How to reach me: <a href="mailto:jo.erl444@gmail.com">Say Hi!</a>
 
-![Snake animation](https://github.com/Emily-Sousa/Emily-Sousa/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation](https://github.com/Jo-Erl/Jo-erl/blob/output/github-contribution-grid-snake.svg)
 
 [comment]: <> (💻 Tech Stack:)
 [comment]: <> (## 🌐 Socials:)
