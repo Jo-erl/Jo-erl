@@ -10,6 +10,8 @@
 
 ![Snake animation](https://github.com/Emily-Sousa/Emily-Sousa/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/Jo-Erl/Jo-erl/blob/output/github-contribution-grid-snake.svg)
+
 [comment]: <> (💻 Tech Stack:)
 [comment]: <> (## 🌐 Socials:)
 
