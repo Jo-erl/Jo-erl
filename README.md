@@ -6,9 +6,6 @@
 👨‍💻 My projects are available at <a href="https://jo-erl.github.io/joelanangportfolio/" target="_blank">Portfolio</a> <br><br>
 📫 How to reach me: <a href="mailto:jo.erl444@gmail.com">Say Hi!</a>
 
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jo.erl) 
 
