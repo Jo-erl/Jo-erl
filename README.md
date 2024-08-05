@@ -1,4 +1,4 @@
-![github](https://github.com/Jo-erl/Jo-erl/assets/133300552/33db47d6-1e7b-4298-b1f4-51c680625b4b)
+![image](https://github.com/user-attachments/assets/d2c758d3-3258-4d67-951c-da69e1c80ad7)
 
 <h1 align="center">Hey there!, I'm Joel</h1>
 <h3 align="center">A passionate Graphics / Web Designer.</h3>
