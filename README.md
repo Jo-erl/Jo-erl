@@ -5,7 +5,7 @@
 <h1 align="center">Hi!, I'm JoErl</h1>
 <h3 align="center">A passionate Graphics / Web Designer.</h3>
 
-👨‍💻 My projects are available at <a href="https://jo-erl.github.io/joelanangportfolio/" target="_blank">Portfolio</a> <br><br>
+👨‍💻 My projects are available at <a href="https://joerl.pages.dev" target="_blank">Portfolio</a> <br><br>
 📫 How to reach me: <a href="mailto:jo.erl444@gmail.com">Say Hi!</a>
 
 
