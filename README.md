@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://github.com/user-attachments/assets/53c988c9-2876-4ccd-ab25-e41cc77bc2fb)
+![header](https://github.com/user-attachments/assets/048912ae-8522-474c-85b8-f57293b16c38)
 
 <h1 align="center">Hi!, I'm JoErl</h1>
 <h3 align="center">A passionate Graphics / Web Designer.</h3>
